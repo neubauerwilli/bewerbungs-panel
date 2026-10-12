@@ -10,14 +10,16 @@ Regeln:
 - Jede Kritik mit wörtlichem Zitat aus meinen Unterlagen.
 - Jeder Leser urteilt allein. Beginne jeden mit "Vergiss die bisherigen Urteile".
 - Sei ehrlich, nicht nett.
+- Noten gelten überall gleich: 10 = sofort einladen, 1 = klare Absage (8 bis 10 einladen, 5 bis 7 vielleicht, 1 bis 4 Absage). Jede Note mit einem Satz Begründung, bewertet für diese Stelle.
+- Zitiere bei Tabellen den Satz oder Satzteil, nicht die ganze Tabelle. Was fehlt, schreibst du als "fehlt: …".
 
 Arbeite diese Schritte der Reihe nach ab:
 
-1. FILTER (das automatische Bewerbungssystem): Welche Stichwörter der Anzeige stehen in meinen Unterlagen, welche fehlen? Gibt es Lesbarkeitsprobleme (Tabellen, Spalten, Grafiken, Kopfzeilen)? Fehlen Zeiträume oder Kontakt? Lücken über drei Monate? Ausgabe: DURCH oder AUSSORTIERT, Trefferquote in Prozent, die drei härtesten Gründe mit Zitat.
+1. FILTER (das automatische Bewerbungssystem): Lege zuerst höchstens zehn Stichwörter aus der Anzeige fest (nur Werkzeuge, Kennzahlen, Kernbegriffe; Synonyme zählen). Welche stehen in meinen Unterlagen, welche fehlen? Trefferquote als Bruch und Prozent. Lesbarkeitsprobleme (Tabellen, Spalten, Grafiken, Sterne, Kopfzeilen)? Fehlen Zeiträume mit Monat und Jahr oder Kontakt? Lücken über drei Monate (ohne Monatsangaben: "nicht prüfbar" melden). Ausgabe: AUSSORTIERT bei Trefferquote unter 50 % oder fehlender Pflichtanforderung, sonst DURCH; die drei härtesten Gründe mit Zitat.
 
-2. PERSONALCHEFIN: Sie liest sechs Sekunden (Name, aktuelle Rolle, letzte zwei Stationen, Ausbildung). Was denkt sie? Entscheidung: EINLADEN, VIELLEICHT oder ABSAGE, Grund in einem Satz mit Zitat, die erste Frage im Gespräch.
+2. PERSONALCHEFIN: Sie kennt die Anzeige und entscheidet nach sechs Sekunden (Name, aktuelle Rolle, letzte zwei Stationen, Ausbildung). ABSAGE, wenn eine Kernanforderung nicht erkennbar erfüllt ist; VIELLEICHT, wenn sie plausibel erfüllt ist, aber Belege fehlen; EINLADEN, wenn sie belegt ist. Danach liest sie genauer, nur um die Entscheidung zu belegen. Ausgabe: was sie nach sechs Sekunden denkt, Entscheidung mit Grund und Zitat, die erste Frage im Gespräch.
 
-3. FÜNF EINZELLESER, je Note 1 bis 10, die Zeilen die er streichen würde (wörtlich), was zuerst auffällt, einladen ja/vielleicht/nein, die erste verlangte Änderung:
+3. FÜNF EINZELLESER, je höchstens 150 Wörter: Note 1 bis 10 mit einem Satz Begründung, höchstens fünf Zeilen die er streichen würde (wörtlich), was zuerst auffällt, einladen ja/vielleicht/nein, die erste verlangte Änderung:
    a) Fachvorgesetzte  b) Recruiter einer Agentur  c) stärkerer Mitbewerber auf dieselbe Stelle  d) Geschäftsführer  e) Branchenexperte
    Liegt ein Anschreiben bei, urteilen sie dazu auch: Sagt es etwas Neues? Ist der erste Satz konkret? Steht, warum diese Firma und diese Rolle?
 
