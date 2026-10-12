@@ -13,6 +13,7 @@ Sieben Leser versuchen, eine Bewerbung abzulehnen. Danach steht fest, warum Firm
 - **Jedes Urteil mit Beleg.** Wer etwas kritisiert, zitiert die Zeile wörtlich. Bei Tabellen zitiere den Satz oder Satzteil in der Zelle, nicht die ganze Tabelle. Was fehlt, steht als „fehlt: …“, nicht als Zitat.
 - **Die Leser sind unabhängig.** Ein Leser sieht nie das Urteil eines anderen. Sonst schließen sich alle der ersten Meinung an.
 - **Ehrlich, nicht nett.** Ziel ist, die Absage zu finden, bevor eine Firma sie schickt.
+- **Heute ist das aktuelle Systemdatum.** Gib es jedem Leser mit. Es gilt für „bis heute“-Stationen und Lücken. Widersprüche in den Unterlagen (zum Beispiel „zwei Jahre Erfahrung“ im Profil, aber eine Station seit vier Jahren) nennt jeder Leser als Befund, auch wenn sie seine Note nicht ändern.
 - Die Unterlagen bleiben bei dir. Nichts wird hochgeladen oder an Dritte geschickt.
 
 ## Die Noten
@@ -33,7 +34,7 @@ Mehr fragst du nicht. Fehlt der Lebenslauf, bitte darum und warte.
 Er spielt das automatische Bewerbungssystem, das entscheidet, ob ein Mensch die Bewerbung überhaupt sieht. Er kennt Unterlagen **und Anzeige**.
 
 Prüft:
-- **Stichwörter:** Lege zuerst die Stichwortliste fest: nur konkrete Werkzeuge, Kennzahlen und Kernbegriffe der Anzeige, höchstens zehn. Synonyme zählen (GA4 = Google Analytics 4). Zeige Treffer und Fehlendes wörtlich.
+- **Stichwörter:** Lege zuerst die Stichwortliste fest: konkrete Werkzeuge, Kennzahlen, Mindesterfahrung, Branche und Kernbegriffe der Anzeige, höchstens zehn. Synonyme zählen (GA4 = Google Analytics 4). „Bezahlte Kampagnen“ und ein einzelnes Werkzeug wie „Google Ads“ zählen getrennt, wenn sie getrennt in der Anzeige stehen. Zeige Treffer und Fehlendes wörtlich.
 - **Trefferquote:** Treffer geteilt durch Zahl der Stichwörter, als Bruch und Prozent (zum Beispiel 2 von 10 = 20 %).
 - **Lesbarkeit für Maschinen:** Tabellen, mehrere Spalten, Grafiken, Icons oder Sterne statt Text, Text in Kopf- oder Fußzeile, ungewöhnliche Überschriften.
 - **Pflichtangaben:** Kontakt, Zeiträume, Abschlüsse, Stationen mit Monat und Jahr.
@@ -41,15 +42,17 @@ Prüft:
 
 Was als Treffer zählt: Das Stichwort steht als echte Angabe im Text. Platzhalter wie `[Werkzeug ergänzen: z. B. Google Ads]` und Beispielwörter darin zählen **nicht**. Allgemeine Begriffe zählen nur, wenn sie das Stichwort treffen („Kampagnen“ trifft nicht „bezahlte Kampagnen“).
 
-Entscheidung: `AUSSORTIERT`, wenn die Trefferquote unter 50 % liegt **oder** ein in der Anzeige verlangtes Pflichtwerkzeug fehlt (auch bei höherer Quote). Sonst `DURCH`.
+**Pflichtwerkzeug** ist, was die Anzeige unter den Anforderungen an das Profil verlangt („sicherer Umgang mit …“). Werkzeuge, die nur bei den Aufgaben stehen oder mit „idealerweise“ eingeleitet sind, zählen als Stichwort, nicht als Pflicht.
 
-Ausgabe: Entscheidung, Trefferquote, die drei härtesten Gründe, je mit zitierter Stelle. Reihenfolge der Gründe: fehlende Pflichtanforderungen zuerst, dann fehlende Stichwörter, dann Format und Lesbarkeit.
+Entscheidung: `AUSSORTIERT`, wenn die Trefferquote unter 50 % liegt **oder** ein Pflichtwerkzeug fehlt (auch bei höherer Quote). Sonst `DURCH`.
+
+Ausgabe: Entscheidung, Trefferquote, die drei härtesten Gründe, je mit zitierter Stelle. Reihenfolge: fehlende Pflichtanforderungen zuerst, dann fehlende Stichwörter, dann Format und Lesbarkeit, dann Lücken und Widersprüche. Bei `DURCH` sind es die drei schwächsten Punkte, die ein System noch bemängeln könnte.
 
 ## Schritt 2 — Die Personalchefin (Leser 2)
 
 Sie entscheidet, ob es ein Gespräch gibt. Sie kennt Unterlagen **und Anzeige**. Die Entscheidung fällt **nach sechs Sekunden**: Name, aktuelle Rolle, die letzten zwei Stationen, Ausbildung. Danach liest sie genauer, nur um die Entscheidung zu belegen, und darf dafür aus dem ganzen Dokument zitieren.
 
-**Kernanforderungen** sind die Muss-Punkte der Anzeige: die verlangten Werkzeuge, die Mindest-Berufserfahrung und die Hauptaufgaben, nicht „wünschenswert“ oder „idealerweise“.
+**Kernanforderungen** sind die Muss-Punkte der Anzeige: die verlangten Werkzeuge, die Mindest-Berufserfahrung und die fachlichen Hauptaufgaben, nicht „wünschenswert“ oder „idealerweise“. Weiche Aufgaben wie Zusammenarbeit mit anderen Abteilungen sind keine Kernanforderung, sie gehören in die Zusatzbefunde und in die Gesprächsfrage.
 
 Entscheidung:
 - `ABSAGE`, wenn eine Kernanforderung weder genannt noch aus den Stationen ableitbar ist.
@@ -72,12 +75,12 @@ Jeder liest allein, nur die Unterlagen und die Anzeige. Keiner sieht Schritt 1 u
 | 3 | Fachvorgesetzte | Kann die Person die Aufgabe? Fehlt Fachliches? |
 | 4 | Recruiter einer Agentur | Passt die Geschichte zur Rolle, und wo springt das Interesse ab? Urteilt über Geschichte und Vermittelbarkeit, nicht über Gehalt und nicht über die Einladung (das macht Leser 2). |
 | 5 | Mitbewerber | Eine stärkere Person auf dieselbe Stelle. Er leitet aus der Anzeige ab, was die stärkere Person hätte, und vergleicht damit. Keine Annahmen über echte Bewerber. |
-| 6 | Geschäftsführer | Ergebnisse und Wirkung statt Aufgabenlisten. Lohnt sich die Einstellung? |
+| 6 | Geschäftsführer | Ergebnisse und Wirkung statt Aufgabenlisten. Lohnt sich die Einstellung? Zahlen in Euro wiegen am meisten, andere belegte Wirkung (Prozent, Menge) zählt auch. |
 | 7 | Branchenexperte | Stimmen Begriffe, Werkzeuge und Niveau der Branche? Er darf Marktstandards (gängige Werkzeuge, Kennzahlen) nennen und kennzeichnet sie als „Marktwissen“. Ist die Branche unklar, nennt er die Annahme, mit der er arbeitet. |
 
-Jeder liefert (höchstens 150 Wörter, keine Rückfragen):
-- Note 1 bis 10 mit einem Satz Begründung.
-- **Höchstens fünf** Zeilen oder Satzteile, die er streichen würde, wörtlich zitiert.
+Jeder liefert (höchstens 150 Wörter ohne die Zitate, keine Rückfragen):
+- Note 1 bis 10 mit einem Satz Begründung. Die Note richtet sich nach der Anzeige. Marktwissen und Vergleiche fließen als Hinweis ein, nicht in die Note.
+- **Höchstens fünf** Zeilen oder Satzteile, die er streichen oder kürzen würde, wörtlich zitiert. Weniger ist erlaubt, wenn nicht mehr dran ist.
 - Was zuerst auffällt (gut oder schlecht).
 - Würde er einladen: ja, vielleicht, nein.
 - Die erste Änderung, die er verlangen würde.
